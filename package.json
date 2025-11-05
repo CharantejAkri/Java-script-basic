@@ -1,0 +1,19 @@
+{
+  "name": "js-weather-dashboard",
+  "version": "1.0.0",
+  "description": "Weather Dashboard App built with Node.js and Vanilla JS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No tests yet\" && exit 0",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0"
+  }
+}
+ 
